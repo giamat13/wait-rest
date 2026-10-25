@@ -1,0 +1,7 @@
+{
+  "name": "wait-rest",
+  "version": "0.1.0",
+  "description": "Manually started: pauses Claude when a plan limit reaches 95%, sleeps until it resets (+5 min), then wakes Claude to continue the task",
+  "license": "MIT",
+  "author": { "name": "GIAMAT13" }
+}

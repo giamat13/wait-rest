@@ -1,0 +1,11 @@
+{
+  "name": "wait-rest",
+  "owner": { "name": "GIAMAT13" },
+  "plugins": [
+    {
+      "name": "wait-rest",
+      "source": "./",
+      "description": "Pauses Claude at 95% of a plan limit and wakes it once the limit resets. Runs only when started with /wait-rest"
+    }
+  ]
+}
