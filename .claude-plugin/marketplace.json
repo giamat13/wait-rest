@@ -1,6 +1,7 @@
 {
   "name": "wait-rest",
   "owner": { "name": "GIAMAT13" },
+  "description": "Pauses Claude at 95% of a plan limit and wakes it once the limit resets",
   "plugins": [
     {
       "name": "wait-rest",
